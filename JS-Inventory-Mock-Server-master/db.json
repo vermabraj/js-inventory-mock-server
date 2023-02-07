@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "1667755893510Shoe 2",
+      "name": "Shoe 2",
+      "price": 1234,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+      "delivery": "2022-11-06",
+      "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg"
+    },
+    {
+      "name": "hgvhjbjn",
+      "price": 9876,
+      "description": "jhchmj ljhjk hkj jg",
+      "delivery": "2023-02-02",
+      "image": "https://imgd.aeplcdn.com/144x81/n/cw/ec/129745/250-duke-left-front-three-quarter.gif?isig=0&q=75",
+      "id": "l5N_PXl"
+    }
+  ]
+}

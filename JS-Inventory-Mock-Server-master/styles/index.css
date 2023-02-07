@@ -1,0 +1,38 @@
+#container {
+    width: 78%;
+    border: 1px solid red
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    display: flex;
+
+
+}
+
+#input_data>input {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px
+}
+
+#container>div img {
+    width: 100%;
+    text-align: center;
+}
+
+#container>div {
+    text-align: center;
+}
